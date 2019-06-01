@@ -1,2 +1,4 @@
 # webpack-typescript-multipage-seed
-webpack multipage us typescript
+A Multi Page Application base on webpack4 and typescript
+
+fork from [webpack-seed](https://github.com/BiYuqi/webpack-seed)

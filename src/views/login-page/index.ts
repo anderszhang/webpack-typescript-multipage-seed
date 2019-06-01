@@ -1,0 +1,10 @@
+/**
+ * 默认样式+默认逻辑
+ */
+import '@/common/js/base'
+import './login-page.less'
+import __ from 'common/utils/dom'
+
+__('.wbs-login_btn').on('click', () => {
+  window.location.href = '/'
+})
